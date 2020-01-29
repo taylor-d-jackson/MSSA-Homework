@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Jackson_EX3A_Caluclating Averages/1.0.0": {
+        "runtime": {
+          "Jackson_EX3A_Caluclating Averages.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jackson_EX3A_Caluclating Averages/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
